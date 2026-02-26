@@ -10,6 +10,12 @@ Our Motto:
 
 LocoStore bridges the gap between local markets and digital customers by providing a secure login/signup system, product management features, and a seamless shopping experience.
 
+How to run-
+cd backend 
+npm start
+cd frontend 
+npm run dev
+
 ---
 
 ## 🚀 Key Features
