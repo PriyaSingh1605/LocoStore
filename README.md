@@ -62,36 +62,5 @@ npm run dev
 - Bcrypt
 - Environment Variables (.env)
 
----
 
-## 📂 Folder Structure
 
-LOCOSTORE/
-│
-├── backend/
-│ ├── controller/
-│ ├── middleware/
-│ ├── model/
-│ ├── routes/
-│ ├── util/
-│ ├── app.js
-│ ├── index.js
-│ ├── package.json
-│ └── .env
-│
-├── frontend/
-│ ├── public/
-│ ├── src/
-│ │ ├── assets/
-│ │ ├── Dashboard/
-│ │ ├── OuterParts/
-│ │ ├── SigninLogin/
-│ │ ├── WebPages/
-│ │ ├── App.jsx
-│ │ └── index.css
-│ ├── index.html
-│ ├── vite.config.js
-│ ├── package.json
-│ └── README.md
-│
-└── .gitignore
